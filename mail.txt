@@ -1,0 +1,16 @@
+Dobrý den,
+
+v příloze Vám posílám v .zip souboru obě semestrální práce. 
+
+V rámci druhé SP jsem pro uštetření volání data pro obě města, která jsem použil uložil do .json souborů, které jsem poslal také.
+
+Případně, že chcete stáhnout "aktuálnější" data, tak je třeba odkomentovat řádky v prvotních buňkách (v úkolech 1 a 11).
+Nepředpokládám ovšem, že se data z minulosti změnily.
+
+V případě, že by notebooky nešly spustit, mne prosím kontaktujte (ale ani v jedné SP jsem nepoužíval obskurní knihovny).
+
+Budu rád za jakoukoliv zpětnou vazbu.
+
+S přáním krásného dne,
+
+Samuel Kokoška
